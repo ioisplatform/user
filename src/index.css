@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@keyframes float3D {
+  0%, 100% {
+    transform: perspective(600px) rotateX(8deg) translateY(0px) scale(1);
+  }
+  50% {
+    transform: perspective(600px) rotateX(4deg) translateY(-6px) scale(1.02);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%) rotate(45deg);
+  }
+  100% {
+    transform: translateX(200%) rotate(45deg);
+  }
+}
+

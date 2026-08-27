@@ -1,0 +1,6 @@
+{
+  "name": "IOIS Viral Video Studio",
+  "description": "Cinematic 4K viral video generator and interactive clip player featuring IOIS Platform presentation with Hindi voiceover, 3D golden particle effects, dolly zoom camera motion, and customizable story timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
